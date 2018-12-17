@@ -42,11 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dictionary.cs" />
-    <Compile Include="MedianOfTwoSortedArrays.cs" />
+    <Compile Include="AddTwoNumbers.cs" />
+    <Compile Include="MedianOfTwoSortedArraysSolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TwoSum.cs" />
+    <Compile Include="TwoSumSolution.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
